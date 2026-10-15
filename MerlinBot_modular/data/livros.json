@@ -1,0 +1,2233 @@
+[
+    {
+        "nome": "Guia do Mestre",
+        "sistema": "Tormenta",
+        "sistema_id": "tormenta",
+        "cenario": "Tormenta",
+        "edicao": "3.5",
+        "ano_publicacao": 2005,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICR2qNjVDYkuf9SJFQIUaFmHZbwQFpAAJjBQACYijIR-vqRuAv4FfzPQQ",
+            "nome": "tormenta-3-5-guia-do-mestre-biblioteca-elfica-1.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 51,
+            "mensagem_id": 1431
+        },
+        "id": 1
+    },
+    {
+        "nome": "Livro do jogador",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Greyhawk",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAPIaosr-P-oPjmt1f7vlPk5HS2GZDYAApkJAAIqQVhE9NbYu_XLUhM9BA",
+            "nome": "D&D_3E_Livro_do_Jogador_3_5_v_Digital_Biblioteca_Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1380
+        },
+        "id": 2
+    },
+    {
+        "nome": "Livro dos Monstros",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAPTaostj_aKTEFgJkuVoHuYTX_ZC5AAApsJAAIqQVhEzsN6KDL-be89BA",
+            "nome": "D&D_3E_Livro_Dos_Monstros_3_5.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1381
+        },
+        "id": 3
+    },
+    {
+        "nome": "Livro do Mestre",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAPeaosuL9gkZJJFs9KVv63ks9iaLmsAAp4JAAIqQVhESlP154FC0CE9BA",
+            "nome": "D&D_3E_Livro_do_Mestre_3_5.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1382
+        },
+        "id": 4
+    },
+    {
+        "nome": "O Livro Completo das Classes de Prestigio",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Todos",
+        "edicao": "3.5",
+        "ano_publicacao": 2005,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAPpaosumukjjM1rpxmLyj-KUchNFi8AAvgIAALFkXlEdXeZQ6k7Nn49BA",
+            "nome": "o-livro-completo-das-classes-de-prestigio-35.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1383
+        },
+        "id": 5
+    },
+    {
+        "nome": "Guia de Aventureiros",
+        "sistema": "D&D 5e e 5.5",
+        "sistema_id": "dnd5",
+        "cenario": "Costa da Espada",
+        "edicao": "5",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAP0aosvRnzmNeDy1E4XNuh9ZYHHZ8cAAvkDAAL22ShGrXeFaNKUbUE9BA",
+            "nome": "D&D_5E_Costa_da_Espada_Guia_de_Aventureiros_Fundo_Colorido.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1384
+        },
+        "id": 6
+    },
+    {
+        "nome": "Livro do Jogador",
+        "sistema": "D&D 5e e 5.5",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2014,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAP_aosv1B7TKAtrhkFSTwABtlayAAE44gACJgUAAub5EEa7DFdoxzSAWD0E",
+            "nome": "D&D_5E_Livro_do_Jogador_Fundo_Colorido_Biblioteca_Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1385
+        },
+        "id": 7
+    },
+    {
+        "nome": "Livro do Mestre",
+        "sistema": "D&D 5e e 5.5",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2014,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBCmqLMA0PTBFO8Bf1E4NhFqrrDIaCAAIjBAAC3GIYRiJjPRZsI21nPQQ",
+            "nome": "D&D 5E - Guia do Mestre - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1386
+        },
+        "id": 8
+    },
+    {
+        "nome": "Manual dos Monstros",
+        "sistema": "D&D 5e e 5.5",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2014,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBFWqLMHEjIrP0D2KEz65tWZmi5KimAAJnBQAC8e4hRvL2r3z1uc7aPQQ",
+            "nome": "D&D_5E_Manual_dos_Monstros_D&D_Beyond_2_1_Biblioteca_Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1387
+        },
+        "id": 9
+    },
+    {
+        "nome": "Caldeirão de Tasha",
+        "sistema": "D&D 5e e 5.5",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2020,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBIGqLMKdLqugUcRjtknpXQUnualsBAAIRBAAC9tkoRkiOJnsW6KFNPQQ",
+            "nome": "D&D_5E_Tashas_Cauldron_of_Everything_Caldeirão_de_Tasha_para_Tudo.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1388
+        },
+        "id": 10
+    },
+    {
+        "nome": "Livro Básico",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Padrão",
+        "edicao": "1",
+        "ano_publicacao": 2009,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBLGqLMkLxz7h1DIod8JKE_1yeE40iAAItBQACA62hRH6NNfCpznddPQQ",
+            "nome": "pathfinder-rpg-livro-basico.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1390
+        },
+        "id": 11
+    },
+    {
+        "nome": "Bestiário",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Padrão",
+        "edicao": "1",
+        "ano_publicacao": 2009,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBN2qLMnLYDBFLK4rKn8GTT_8k3TyIAAIsBQACA62hRDSaTKYc2EslPQQ",
+            "nome": "pathfinder-rpg-bestiario.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1391
+        },
+        "id": 12
+    },
+    {
+        "nome": "Assimilação RPG",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Não se aplica",
+        "edicao": "1",
+        "ano_publicacao": 2023,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIEoGqIzAtKiOrYGv6eWSOthY5nZeNwAAJ8CQAC8PYQR-dHrcAEQAwLPQQ",
+            "nome": "Assimilação RPG.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1393
+        },
+        "id": 13
+    },
+    {
+        "nome": "Livro do Jogador",
+        "sistema": "D&D 5e",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5.5",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBZWqMwGuWB8jRVkEDCRF158hDksewAAKLCQACKkFYRPfh_u-clx4OPQQ",
+            "nome": "D&D 2024.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1395
+        },
+        "id": 14
+    },
+    {
+        "nome": "Caçador: A Revanche - Livro Básico",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2023,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBdGqMyjtNcF44XKBep2YjHgABVHl2PgAC3gUAAvUkqUZz-ZC3DdHnJD0E",
+            "nome": "H5 - Caçador - A Revanche SCAN PTBR.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1402
+        },
+        "id": 15
+    },
+    {
+        "nome": "Mythic: Emulador de Mestre",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Padrão",
+        "edicao": "1",
+        "ano_publicacao": 2026,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBf2qMy3Ao94AbMYKhr4jgt3udV55kAAJ7BwACB_RBRIhRPcChpX-HPQQ",
+            "nome": "Mythic-Emulador-de-Mestre-de-Jogo (2).pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1405
+        },
+        "id": 16
+    },
+    {
+        "nome": "Caixa Preta - Livro de Regras",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Não se aplica",
+        "edicao": "1",
+        "ano_publicacao": 1999,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBjmqM0zBgxWKvY6hr8P-qvTvBecq8AAJ1BwACpvdpRDaKG9_XRW4EPQQ",
+            "nome": "dd-caixa-preta-livro-de-regras-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1414
+        },
+        "id": 17
+    },
+    {
+        "nome": "Dark Sun 3.5 – Livro Básico",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Dark Sun",
+        "edicao": "3.5",
+        "ano_publicacao": 2004,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBmWqM1C-9gNaL5XS6MPPOouhcT75tAAJuBQACsYrARLuQuywWZOWIPQQ",
+            "nome": "dark-sun-3-5-modulo-basico-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1415
+        },
+        "id": 18
+    },
+    {
+        "nome": "Um Pouco de Conhecimento",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Dark Sun",
+        "edicao": "2",
+        "ano_publicacao": 1991,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBpGqM1YEJz-IU87mlPBfAYOvIfPIvAAJwBQACsYrARORnauhCSnZlPQQ",
+            "nome": "dark-sun-3-5-um-pouco-de-conhecimento-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1416
+        },
+        "id": 19
+    },
+    {
+        "nome": "Livro de Regras do Jogador",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Dark Sun",
+        "edicao": "3.5",
+        "ano_publicacao": 2004,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBr2qM1gtDBqg6yy9TVbLTei8eyhnwAAJxBQACsYrARErbbnRhkn_BPQQ",
+            "nome": "dark-sun-3-5-livro-de-regras-do-jogador-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1417
+        },
+        "id": 20
+    },
+    {
+        "nome": "Mistério dos Antigos",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Dark Sun",
+        "edicao": "3.5",
+        "ano_publicacao": 2005,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBumqM11-QVUDJBqvP6qSe89b6VH6IAAJyBQACsYrARLxje5R4I41KPQQ",
+            "nome": "dark-sun-3-5-misterio-dos-antigos-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1418
+        },
+        "id": 21
+    },
+    {
+        "nome": "Liberdade",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Dark Sun",
+        "edicao": "2",
+        "ano_publicacao": 1991,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIBxWqM1-dp4ynY600-DsfodXnOGMA_AAJ0BQACsYrARC51f-jtPY2EPQQ",
+            "nome": "dark-sun-3-5-liberdade-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1419
+        },
+        "id": 22
+    },
+    {
+        "nome": "Crônicas do Andarilho",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Dark Sun",
+        "edicao": "2",
+        "ano_publicacao": 1995,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIB0GqM2C8ez-N2_mVK2Mmlebs1Myf8AAJ1BQACsYrARFrsZBQJGnNdPQQ",
+            "nome": "dark-sun-3-5-cronicas-do-andarilho-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1420
+        },
+        "id": 23
+    },
+    {
+        "nome": "Terrores das Terras Mortas",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Dark Sun",
+        "edicao": "3.5",
+        "ano_publicacao": 2007,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIB22qM2JYDp-aUp3N6s2njICLYPs_XAAJ2BQACsYrARC1xzHCJOH0FPQQ",
+            "nome": "dark-sun-3-5-terrores-das-terras-mortas-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1421
+        },
+        "id": 24
+    },
+    {
+        "nome": "Estrada para Urik",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Dark Sun",
+        "edicao": "2",
+        "ano_publicacao": 1992,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIB6GqM2TXRl-fg6RVQuMUR-sTeZtqoAAJ4BQACsYrARKQN8UGPqSHIPQQ",
+            "nome": "dark-sun-3-5-estrada-para-urik-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1422
+        },
+        "id": 25
+    },
+    {
+        "nome": "Módulo Expandido",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Dark Sun",
+        "edicao": "3.5",
+        "ano_publicacao": 2006,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIB82qM2ZzFIIcMJv5fIR7eTGveEm5GAAJ3BQACsYrARE50PyGVGAFBPQQ",
+            "nome": "dark-sun-3-5-modulo-expandido-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1423
+        },
+        "id": 26
+    },
+    {
+        "nome": "Draconic Codex - Ingês",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Lost Omens",
+        "edicao": "2",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICC2qM2u5Ilut4kcroHU8D0FUj_RjhAAJQBgACZ5ygRn2aDdKkVbp9PQQ",
+            "nome": "pf2e-lost-omens-draconic-codex-secrets-of-the-dragons.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1426
+        },
+        "id": 27
+    },
+    {
+        "nome": "Guia de Cenário",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Lost Omens",
+        "edicao": "2",
+        "ano_publicacao": 2019,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICFmqM24i_nBAdRhqBsTCZeQfPfOgDAAJRBgACZ5ygRn5I611CoeKvPQQ",
+            "nome": "ilide_info_pathfinder_rpg_pressagios_perdidos_guia_de_cenario_5e13b1493afba.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1427
+        },
+        "id": 28
+    },
+    {
+        "nome": "Livro Básico",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Não se aplica",
+        "edicao": "2",
+        "ano_publicacao": 2019,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICIWqM3F87CMPxM2zluZMmdbdmhHlaAAKvAwACTBxIRZpOlM30VEm4PQQ",
+            "nome": "pathfinder-segunda-ediao-livro-basico-2019pdf-pdf-free.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1428
+        },
+        "id": 29
+    },
+    {
+        "nome": "Guia Avançado",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Não se aplica",
+        "edicao": "1",
+        "ano_publicacao": 2010,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICLGqM3VglOCSyY-C0H-TepHm4f5-TAAL7AwAC9T5xR-Gz5_lPd2WmPQQ",
+            "nome": "pathfinder-rpg-guia-avancado-do-jogador-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1429
+        },
+        "id": 30
+    },
+    {
+        "nome": "Guia do jogador - Cartilha do mar interior",
+        "sistema": "Pathfinder",
+        "sistema_id": "pathfinder",
+        "cenario": "Mar Interior",
+        "edicao": "1",
+        "ano_publicacao": 2012,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICN2qM3eXZgjYtLcJjvaa7oxugX7ETAAKVAwAC9T55R5wRhqYUslg9PQQ",
+            "nome": "pathfinder-rpg-guia-do-jogador-cartilha-do-mar-interior.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 79,
+            "mensagem_id": 1430
+        },
+        "id": 31
+    },
+    {
+        "nome": "Rolemaster Unifield - Core Law",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Padrão",
+        "edicao": "5",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICwWqW53y8jhh_KosSqPEukBdQOpkFAALrCAACSEu5RJzGYrhZfgaEPQQ",
+            "nome": "pdfcoffee.com_rolemaster-unified-core-law-pdf-free.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1479
+        },
+        "id": 32
+    },
+    {
+        "nome": "Ficha - Ordem Paranormal 2(Playtest)",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Ordem paranormal 2",
+        "edicao": "2",
+        "ano_publicacao": 2026,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICzWqXDc34HZwki0czlIHtVU5BtZLyAAL-CQACyzqhRF9Lg7n-_Xw9PQQ",
+            "nome": "Ordem Paranormal RPG 2 - Playtest Alpha (sobreviventes).pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1480
+        },
+        "id": 33
+    },
+    {
+        "nome": "Ordem Paranormal 2 - Playtest (Alpha)",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Ordem Paranormal",
+        "edicao": "2",
+        "ano_publicacao": 2026,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICzWqXDc34HZwki0czlIHtVU5BtZLyAAL-CQACyzqhRF9Lg7n-_Xw9PQQ",
+            "nome": "Ordem Paranormal RPG 2 - Playtest Alpha (sobreviventes).pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1481
+        },
+        "id": 34
+    },
+    {
+        "nome": "Chainmail",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Não se aplica",
+        "edicao": "3",
+        "ano_publicacao": 1975,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIC5mqZQ3uBlxXCIpRRt_VQWvwNcP6jAAKSCAACX-bIRBFOHtOa38__PQQ",
+            "nome": "chainmail_regras_para_miniaturas_medievais_3a_edicao_biblioteca.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1487
+        },
+        "id": 35
+    },
+    {
+        "nome": "Tales from the Loop",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Padrão",
+        "edicao": "1",
+        "ano_publicacao": 2017,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIFxGqU8pTQPOLKnZz8AAEhJIFykd0asAACnAoAAgL-qERar6L1jxRCjD0E",
+            "nome": "Tales_from_the_Loop_Simon_Stålenhag_z_library_sk,_1lib_sk,_z_lib.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1488
+        },
+        "id": 36
+    },
+    {
+        "nome": "Shadowrun 6ED - Livro Básico",
+        "sistema": "Shadowrun",
+        "sistema_id": "shadowrun",
+        "cenario": "Padrão",
+        "edicao": "6",
+        "ano_publicacao": 2019,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIC_WqaHnJQ4L3kdza2pkAaNuFrcqBrAAIyBgAC5HwhR3oM1eLrBwP3PQQ",
+            "nome": "Shadowrun 6ED - Livro Básico.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 333,
+            "mensagem_id": 1489
+        },
+        "id": 37
+    },
+    {
+        "nome": "O Livro Completo dos Gladiadores",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Dark Sun",
+        "edicao": "2",
+        "ano_publicacao": 1993,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDCGqaIHi89-4STRwrk5LiUHQmLQ_TAAK2DAACRs_QRBammjpJSz1qPQQ",
+            "nome": "AD&D 2E Dark Sun - O Livro Completo dos Gladiadores.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1490
+        },
+        "id": 38
+    },
+    {
+        "nome": "O um Anel",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Terra Média",
+        "edicao": "1",
+        "ano_publicacao": 2011,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF1WqbMIHR9REMf1o3--k6Y6rZnQx6AAJTCgAC5SngRPJGjcKnc7ecPQQ",
+            "nome": "pdfcoffee_com_o_um_anel_rpg_ediao_brasileira_beta_21_pdf_free_1.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1497
+        },
+        "id": 39
+    },
+    {
+        "nome": "O um Anel",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Senhor dos Anéis",
+        "edicao": "2",
+        "ano_publicacao": 2021,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDHmqbNFCLTNVgQezHBXT_fEnDBuVdAAI_BwACRs_gROKTmTZXaw3fPQQ",
+            "nome": "O_um_anel_rpg_ediao_brasileira_beta_21.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1498
+        },
+        "id": 40
+    },
+    {
+        "nome": "O um Anel - Valfenda",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Senhor dos Anéis",
+        "edicao": "2",
+        "ano_publicacao": 2021,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDKWqbNM8CmIjJ7y1wVxq-6kvZai35AAJABwACRs_gRETLR1_As6RdPQQ",
+            "nome": "O-um-anel-2ed-rpg-valfenda.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1499
+        },
+        "id": 41
+    },
+    {
+        "nome": "O Um Anel - Caminhos de Vida dos Personagens",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Senhor dos Anéis",
+        "edicao": "2",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDNGqbNdgUuymJ-HdEWZ9eaFIX7FQjAAJBBwACRs_gRLecEHWniyMYPQQ",
+            "nome": "O Um Anel 2ed Caminhos de Vida dos Personagens.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1500
+        },
+        "id": 42
+    },
+    {
+        "nome": "O Um Anel - As Velhas Minas Anãs",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Senhor dos Anéis",
+        "edicao": "2",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDP2qbNi85xKVeF0AgVcsX3K6spKtHAAJCBwACRs_gRHNXOeVcckOqPQQ",
+            "nome": "O Um Anel 2ed As Velhas Minas Anãs.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1501
+        },
+        "id": 43
+    },
+    {
+        "nome": "D&D 5.5e - Dungeon Masters Guide - Inglês",
+        "sistema": "D&D 5e e 5.5e",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5.5",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDSmqbT-w9jJuFkdk2puH8W3xTzlQqAAL7BgACOG25R7ptzbzASSRLPQQ",
+            "nome": "D&D 5e - 2024 Dungeon Masters Guide - book scan_ocr.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1504
+        },
+        "id": 44
+    },
+    {
+        "nome": "D&D 4E - Livro do Jogador",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "4",
+        "ano_publicacao": 2008,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDVWqbZi1f2A7wYHYmSZ0vk7jbwlRyAAJhBwACRs_gRKWm0L3I4IjWPQQ",
+            "nome": "D&D 4E - Livro do Jogador - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1505
+        },
+        "id": 45
+    },
+    {
+        "nome": "D&D 4E - Livro do Jogador 2",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "4",
+        "ano_publicacao": 2009,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDYGqbZx7-6HNRfu75tdhkHh30f21sAAJiBwACRs_gRKDF2_JpyxGFPQQ",
+            "nome": "D&D 4E - Livro do Jogador 2 - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1506
+        },
+        "id": 46
+    },
+    {
+        "nome": "D&D 4E - Livro do Jogador 3",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "4",
+        "ano_publicacao": 2010,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDa2qbZ6sWWHIKhu-24rBZRNI_ffErAAJkBwACRs_gRPw6VIfibqWSPQQ",
+            "nome": "D&D 4E - Livro do Jogador 3 - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1507
+        },
+        "id": 47
+    },
+    {
+        "nome": "D&D 4E - Manual dos Monstros",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "4",
+        "ano_publicacao": 2008,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDdmqbaA4lSB4Yi1FS9-kz--IOSxOzAAJlBwACRs_gRHmkq2OLXm13PQQ",
+            "nome": "D&D 4E - Manual dos Monstros - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1508
+        },
+        "id": 48
+    },
+    {
+        "nome": "D&D 4E - Guia do Mestre",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "4",
+        "ano_publicacao": 2008,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDgWqbaI8rIQUiw_p3q6GESZY-QEhsAAJmBwACRs_gRIefNNaKfP6BPQQ",
+            "nome": "D&D 4E - Guia do Mestre - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1509
+        },
+        "id": 49
+    },
+    {
+        "nome": "D&D - Enciclopedia de Regras",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Todos",
+        "edicao": "1",
+        "ano_publicacao": 1991,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDjGqbbm_SlAABPu5hwIGNymn3kEwN-wACaQcAAkbP4ET-Ph6ClW0nLD0E",
+            "nome": "dd-enciclopedia-de-regras-digital-biblioteca-elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1510
+        },
+        "id": 50
+    },
+    {
+        "nome": "Livro do Jogador",
+        "sistema": "D&D 5e e 5.5e",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5.5",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDm2qjMaksTS4OL-D63O20ifHmEuqkAALZCQAC60_oRDQZYhN1KSXbPQQ",
+            "nome": "dampd-5e---livro-do-jogador-2024.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1541
+        },
+        "id": 51
+    },
+    {
+        "nome": "Livro Básico de Regras",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "DCC",
+        "edicao": "1",
+        "ano_publicacao": 2012,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIDpmqjMpCun1Cjnwco9w7L2ZHMrqZUAAKfCQACmBXpRGBgfhcU9lgWPQQ",
+            "nome": "outros---dcc-rpg---livro-basico-de-regras.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1542
+        },
+        "id": 52
+    },
+    {
+        "nome": "FU Techno Fantasy",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF-mqjMT1KXltgQ_AzWts7rq-7yMvrAALrBwACfREYRdpnowKU7CvJPQQ",
+            "nome": "FU Techno Fantasy.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1553
+        },
+        "id": 53
+    },
+    {
+        "nome": "Fabula Ultima - Livro Básico",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF82qjMT0UvUyUE-K3qArtYG30qiCbAALkBwACfREYRYcjP0YruN2hPQQ",
+            "nome": "FU Livro Básico.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1554
+        },
+        "id": 54
+    },
+    {
+        "nome": "FU - High Fantasy",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF9GqjMT32HBSEqdecy_OHT1KEl2sQAALlBwACfREYRWRdmMVDt6ZePQQ",
+            "nome": "FU High Fantasy.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1556
+        },
+        "id": 55
+    },
+    {
+        "nome": "Shadow of the Demon Lord",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Shadow of the Demon Lord",
+        "edicao": "1",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAID0mqkAj1ysVH-nYc8_SB2yN4C1p0oAAIFDAACJwwhRUyHMhc7kDAIPQQ",
+            "nome": "dd-5e-shadow-of-the-demon-lord.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1561
+        },
+        "id": 56
+    },
+    {
+        "nome": "Original D&D",
+        "sistema": "D&D 1e e 4e AD&D",
+        "sistema_id": "adnd",
+        "cenario": "Padrão",
+        "edicao": "1",
+        "ano_publicacao": 1977,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAID3WqkAtyDUAz6AAEG8euvJIJI4rM2FAACBgwAAicMIUUbf0GdJr1ciz0E",
+            "nome": "Original D&D (1st.ed., 6th.pr., 1977) - White Box.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 1406,
+            "mensagem_id": 1562
+        },
+        "id": 57
+    },
+    {
+        "nome": "FU - Natural Fantasy",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF9WqjMT3PgDgr-TJQR_evsrM_jlg8AALmBwACfREYRYjBof0uxcOSPQQ",
+            "nome": "FU Natural Fantasy.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1563
+        },
+        "id": 58
+    },
+    {
+        "nome": "FU - Codex Extra",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF9mqjMT3dlaixvY4gnbe2wrAYA0g_AALnBwACfREYRbe5NkMx-3uzPQQ",
+            "nome": "FU Codex Extra.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1564
+        },
+        "id": 59
+    },
+    {
+        "nome": "FU - escudo do mestre previa-final",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF92qjMT3PL2_xFySnSFzoNQzbv-6nAALoBwACfREYRYArdCBua_b6PQQ",
+            "nome": "FU escudo do mestre previa-final.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1565
+        },
+        "id": 60
+    },
+    {
+        "nome": "Herdeiros da Supernova",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF-GqjMT3-mXL8lw16TkvV_ao8EaGAAALpBwACfREYRUELKmFCMaQHPQQ",
+            "nome": "Herdeiros da Supernova.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1566
+        },
+        "id": 61
+    },
+    {
+        "nome": "Guia do Mestre",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Fabula Ultima",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF-WqjMT2libivtKHHvwStS5hqm_GkAALqBwACfREYRSYSRImyi2ABPQQ",
+            "nome": "FU guia do mestre previa-final.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1567
+        },
+        "id": 62
+    },
+    {
+        "nome": "Tales from the Loop CORERULE-Inglês",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Tales from the Loop",
+        "edicao": "1",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIF7mqjMT0ZAc4FJbbLTX1UZkQwGaNgAAKSCwACfREQRQhOJ-13sN7XPQQ",
+            "nome": "Tales_from_the_Loop_CORERULE_Book.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1568
+        },
+        "id": 63
+    },
+    {
+        "nome": "Mork borg",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Mork Borg",
+        "edicao": "1",
+        "ano_publicacao": 2019,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEL2qlnEx9DkcuhRw4ZThvyEesVOoZAAJ9CQACyhkoRZuXDML67l31PQQ",
+            "nome": "outros---mork-borg.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1572
+        },
+        "id": 64
+    },
+    {
+        "nome": "codex ludus",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Dicas",
+        "edicao": "1",
+        "ano_publicacao": 2026,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEO2qoLZVGeFvm4RN6kvBA2ri2Xuc7AAIsBwADr0BFv15JvHEK_4k9BA",
+            "nome": "codex ludus.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1582
+        },
+        "id": 65
+    },
+    {
+        "nome": "Guerra das Tempestades - Ponte Nove",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Cosmere RPG",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIESmqp5ry_UMnT6cERbz_94uIMrKDtAAJpBwAC5f3pR9phxMCpxQG6PQQ",
+            "nome": "Cosmere RPG Ponte Nove.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1583
+        },
+        "id": 66
+    },
+    {
+        "nome": "Livro básico - Shadow Of The Weird Wizard",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Shadow Of The Weird Wizard",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEVWqp6DUzDlw2tGQoK3GhZlc8Eek3AAJCBwAC7F0pRo4xL-Z5M8hqPQQ",
+            "nome": "shadow-of-the-weird-wizard-livro-basico.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1584
+        },
+        "id": 67
+    },
+    {
+        "nome": "Ilide Info - Shadow Of The Weird Wizard",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Shadow Of The Weird Wizard",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEYGqp6NN3jBBfIYdb5jYDy3q47x0HAAJDBwAC7F0pRmp9fauIwNlaPQQ",
+            "nome": "ilide_info_shadow_of_the_weird_wizard_se_desperate_measures_v1_oef.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1585
+        },
+        "id": 68
+    },
+    {
+        "nome": "Livro das Ancestralidades - Shadow Of The Weird Wizard",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Shadow Of The Weird Wizard",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEa2qp6WfKR93W6pkTNpKLyVJ1GNg9AAJEBwAC7F0pRpiiPAki3P9kPQQ",
+            "nome": "Shadow of the Weird Wizard livro das Ancestralidades.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1586
+        },
+        "id": 69
+    },
+    {
+        "nome": "Livro do Sábio - Shadow Of The Weird Wizard",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Shadow Of The Weird Wizard",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEdmqp6bEAAVe93uX8dawX6Z6yO-J2IAACRQcAAuxdKUbADDO8y1783D0E",
+            "nome": "Shadow of the Weird Wizard Livro do Sabio.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1587
+        },
+        "id": 70
+    },
+    {
+        "nome": "DH-Livro-Basico",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Daggerheart",
+        "edicao": "1",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEgWqp6jXT_LrdFk8kjlczyr0bRO-mAAIsBwACbXoBRrPKsJgHB0zyPQQ",
+            "nome": "DH-Livro-Basico.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1588
+        },
+        "id": 71
+    },
+    {
+        "nome": "t20 - Jornada Heroica",
+        "sistema": "Tormenta",
+        "sistema_id": "tormenta",
+        "cenario": "T20",
+        "edicao": "1",
+        "ano_publicacao": 2023,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEjGqp6ssS7VRYsYy1QnupodikGWrnAALABwACBCDhRWruR0bYFqYBPQQ",
+            "nome": "t20-jornada-heroica-c.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 51,
+            "mensagem_id": 1589
+        },
+        "id": 72
+    },
+    {
+        "nome": "Vaesen PTbr",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Vaesen",
+        "edicao": "1",
+        "ano_publicacao": 2023,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEl2qp680_qOvEcAz-ZduW7TyHhDiWAAJ2BwACtZORRziNreKsDS3hPQQ",
+            "nome": "Vaesen PTbr.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1590
+        },
+        "id": 73
+    },
+    {
+        "nome": "Arcana Primária - Guia do Aventureiro",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Arcana Primária",
+        "edicao": "1.1",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEomqp7kNjkOtBroRjII5pkxfMfucBAAL4CAACAQVQRQsWWmeyyyJYPQQ",
+            "nome": "Arcana Primária Guia do Aventureiro v1.1.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1592
+        },
+        "id": 74
+    },
+    {
+        "nome": "Ronin - SoloRPG",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Ronin",
+        "edicao": "1",
+        "ano_publicacao": 2019,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIErWqqsmcnDOnZRLk9SSIbY9HM-rjkAALXCAACAQVYRd0R4luUugbuPQQ",
+            "nome": "Ronin.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1593
+        },
+        "id": 75
+    },
+    {
+        "nome": "Manual dos Monstros - Ingles",
+        "sistema": "D&D 5e e 5.5e",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5.5",
+        "ano_publicacao": 2025,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIExWqrsD-8PKQBAitWmp557X53u8YuAAKSBwACFydhRSpFmUrXMzynPQQ",
+            "nome": "Manual de Monstruos - Ingles.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1602
+        },
+        "id": 76
+    },
+    {
+        "nome": "Mythic - tabelas rápidas",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Mythic",
+        "edicao": "2",
+        "ano_publicacao": 2023,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIEw2qrrQoZkve_x0SXjQABGgtVqelGGgACjgcAAhcnYUVbfrhgsbMQQz0E",
+            "nome": "ilide_info_mythic_tabelas_rapidas_pr_24481b7d2fae4a8e6df1dd7203019c52.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1603
+        },
+        "id": 77
+    },
+    {
+        "nome": "Contos do Portal Bocejante",
+        "sistema": "D&D 5e e 5.5e",
+        "sistema_id": "dnd5",
+        "cenario": "Qualquer",
+        "edicao": "5",
+        "ano_publicacao": 2017,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIE4mqsk0Ld4p18-rU9ApKWL6vOvhG9AALPEwACFydpRcO6WiyLxOe8PQQ",
+            "nome": "d-d-5e-contos-do-portal-bocejante-pr.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1604
+        },
+        "id": 78
+    },
+    {
+        "nome": "LIVRO DO MESTRE (DM) D&D 5.5e - 2024",
+        "sistema": "D&D 5e e 5.5e",
+        "sistema_id": "dnd5",
+        "cenario": "Padrão",
+        "edicao": "5.5",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIE7Wqu5MuQKFyBkldjmLDsRlN9xd8EAAJdCQACc99wRXzzhVIOsjnwPQQ",
+            "nome": "LIVRO DO MESTRE (DM) D&D 5.5e - 2024.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 2,
+            "mensagem_id": 1609
+        },
+        "id": 79
+    },
+    {
+        "nome": "Livro Básico",
+        "sistema": "Tormenta",
+        "sistema_id": "tormenta",
+        "cenario": "Tormenta",
+        "edicao": "2",
+        "ano_publicacao": 2022,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICTGqNjj5Eb9D4ZKikpjNYgO2bt2-0AAJmBAACz6YxRPr_Dz9Ba4rgPQQ",
+            "nome": "T20 - Livro Básico - Jogo do Ano.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 51,
+            "mensagem_id": 1434
+        },
+        "id": 80
+    },
+    {
+        "nome": "Escudo do Mestre",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICXGqNlY7Wpa015vJFrPpXiM6-mVauAAJPBgACa4LpRmFk1THDayY-PQQ",
+            "nome": "Escudo do Mestre - Chamado de Cthulhu 7e.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1435
+        },
+        "id": 81
+    },
+    {
+        "nome": "Livro Base",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICYWqNpbGdZsjIv4MJs_rFiLbagniLAAJMBgACa4LpRi9r1uPpwIO-PQQ",
+            "nome": "Call of Cthullu 7 edição.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1436
+        },
+        "id": 82
+    },
+    {
+        "nome": "Guia do Investigador",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICZmqNph3qyC1VvDDNnnh4zqO3onLAAAJNBgACa4LpRkpPXJDFaUwdPQQ",
+            "nome": "Chamado de Cthulhu - 7E - Guia do Investigador.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1437
+        },
+        "id": 83
+    },
+    {
+        "nome": "Pulp cthulhu",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2016,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICa2qNposk4crHNCILiWh3n9Hz_YviAAJOBgACa4LpRr27d0vfMOShPQQ",
+            "nome": "Chamado de Cthulhu 7 Cthulhu-Pulp.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1438
+        },
+        "id": 84
+    },
+    {
+        "nome": "A Serpente de Duas Cabeças",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Pulp cthulhu",
+        "edicao": "7",
+        "ano_publicacao": 2017,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICcGqNp6VtVmV_V0N4Ko4Chl2wpjSoAALDBQACERwYR92fVf77GHQaPQQ",
+            "nome": "A Serpente de Duas Cabeças.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1439
+        },
+        "id": 85
+    },
+    {
+        "nome": "A Assombração",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2013,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICdWqNqPYzSPIvOXIOrhfk0qifZdcEAALEBQACERwYR4a8ihw2XxMiPQQ",
+            "nome": "Chamado de Cthulhu - A Assombração.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1440
+        },
+        "id": 86
+    },
+    {
+        "nome": "A semente da Destruição",
+        "sistema": "Call of Cthulhu",
+        "sistema_id": "cthulhu",
+        "cenario": "Padrão",
+        "edicao": "7",
+        "ano_publicacao": 2015,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICemqNqbBcCP_iV5OAJmsmqsTp7g5RAALFBQACERwYR6NzMK3JpHdgPQQ",
+            "nome": "Chamado de Cthulhu - A Semente da Destruição.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 242,
+            "mensagem_id": 1441
+        },
+        "id": 87
+    },
+    {
+        "nome": "Aventuras Orientais",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Forgoten Realms",
+        "edicao": "3",
+        "ano_publicacao": 2001,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICkWqQtUirbv06WSxLpUCuOPKQKKtqAAKzBwACpz0ZRTHqbjHoLiRDPQQ",
+            "nome": "D&D 3E - Aventuras Orientais - Biblioteca Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1460
+        },
+        "id": 88
+    },
+    {
+        "nome": "Draconomicon",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICnWqQ0YvNt_GMSccq8FhZxcdt4qu4AAIMBwACnt_hR1CA5Q5EykT3PQQ",
+            "nome": "substituir_D&D_3E_Draconomicon_O_Livro_dos_Dragões.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1461
+        },
+        "id": 89
+    },
+    {
+        "nome": "Defensores da fé",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3",
+        "ano_publicacao": 2001,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIComqQ0l8J9uLeUDFWU-uLmUnVM4qMAAKcBAACLcrBREgIzJlhBpbBPQQ",
+            "nome": "D&D_3E_Livro_de_Referência_Defensores_da_Fé_Biblioteca_Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1462
+        },
+        "id": 90
+    },
+    {
+        "nome": "Completo do guerreiro",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICrWqQ0yGw-fqe3eNBuvMnTP4RJehEAAKhBQACnt_ZR5_jX1wgd4_wPQQ",
+            "nome": "D&D_3_5_O_Livro_Completo_do_Guerreiro_Digital_Biblioteca_Élfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1463
+        },
+        "id": 91
+    },
+    {
+        "nome": "Guia de talentos e classes de prestígio",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "padrão",
+        "edicao": "3",
+        "ano_publicacao": 2004,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICsmqQ07nUrCFy1SDSAkK84DevCDqUAAKfBAACLcrBRNAF6Jj07QQwPQQ",
+            "nome": "dd_3e_guia_de_talentos_e_classes_de_prestigio_biblioteca_elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1464
+        },
+        "id": 92
+    },
+    {
+        "nome": "Completo do Aventureiro",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2006,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICt2qQ1Jux_R6Qc5HeBrixAvD2uUw3AAKgBAACLcrBRIiYxbVzNGHFPQQ",
+            "nome": "dd_3e_o_livro_completo_do_aventureiro_digital_biblioteca_elfica.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1465
+        },
+        "id": 93
+    },
+    {
+        "nome": "Player's Handbook II",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2006,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAICvGqQ1U-RrTnyp_rV-IK5e8enAliZAAJiBAAC7LPxRB83pBfmctfCPQQ",
+            "nome": "PlayersHandbookII.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1466
+        },
+        "id": 94
+    },
+    {
+        "nome": "Arms and Equipment Guide",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "Padrão",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIE_mqxV5q2GzuE2ZpYFbpgHDkUjeIZAAJvBAAC7LPxRJRMBjMUTvSgPQQ",
+            "nome": "1388132199459.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1610
+        },
+        "id": 1
+    },
+    {
+        "nome": "Spell Compendium",
+        "sistema": "D&D 3e e 3.5e",
+        "sistema_id": "dnd3",
+        "cenario": "todos",
+        "edicao": "3.5",
+        "ano_publicacao": 2003,
+        "arquivo": {
+            "file_id": "BQACAgEAAxkBAAIFBWqxXSqZfSEcDn81AcabWSGUha3OAAJuBAAC7LPxRP0SwP1kbItdPQQ",
+            "nome": "Spell Compendium.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 54,
+            "mensagem_id": 1613
+        },
+        "id": 95
+    },
+    {
+        "nome": "Você é oque você come",
+        "sistema": "Sistemas e Cenario Diversos",
+        "sistema_id": "diversos",
+        "cenario": "Wildfeast",
+        "edicao": "1",
+        "ano_publicacao": 2024,
+        "arquivo": {
+            "file_id": "BQACAgEAAyEFAASDLTAzAAIGUWqxssiLy-L3QD1aXqHRgbKVPCFHAAJPGAACrXmRRSLf7chv_SZYPQQ",
+            "nome": "Wildfeast-RPG_Você é oque você come.pdf"
+        },
+        "usuario": {
+            "id": 629689196,
+            "nome": "Messias",
+            "username": "ashbitcoin"
+        },
+        "publicacao": {
+            "grupo_id": -1002200776755,
+            "topico_id": 581,
+            "mensagem_id": 1619
+        },
+        "id": 96
+    }
+]

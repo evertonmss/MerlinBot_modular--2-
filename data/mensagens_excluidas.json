@@ -1,0 +1,53 @@
+[
+    {
+        "acao": "exclusao",
+        "data": "2026-09-22T19:33:50.568612+00:00",
+        "executado_por": 629689196,
+        "mensagem": {
+            "chat_id": -1002200776755,
+            "message_id": 1622,
+            "thread_id": null,
+            "content_type": "text",
+            "text": "🔒 Esta função é restrita aos administradores de Merlin.",
+            "caption": null,
+            "autor_id": 8896090229,
+            "autor_nome": "Merlin",
+            "file_id": null,
+            "file_name": null
+        }
+    },
+    {
+        "acao": "exclusao",
+        "data": "2026-09-22T19:34:00.695035+00:00",
+        "executado_por": 629689196,
+        "mensagem": {
+            "chat_id": -1002200776755,
+            "message_id": 1581,
+            "thread_id": null,
+            "content_type": "new_chat_members",
+            "text": null,
+            "caption": null,
+            "autor_id": 6006054307,
+            "autor_nome": "Sócrates",
+            "file_id": null,
+            "file_name": null
+        }
+    },
+    {
+        "acao": "exclusao",
+        "data": "2026-09-22T19:34:41.430493+00:00",
+        "executado_por": 629689196,
+        "mensagem": {
+            "chat_id": -1002200776755,
+            "message_id": 1625,
+            "thread_id": null,
+            "content_type": "text",
+            "text": "/deletar",
+            "caption": null,
+            "autor_id": 629689196,
+            "autor_nome": "Messias",
+            "file_id": null,
+            "file_name": null
+        }
+    }
+]
